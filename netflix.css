@@ -1,0 +1,97 @@
+.o{
+    width: 100%;
+    height: 150vh;
+    position: relative;
+    background: url(/img.jpg);
+}
+.p{
+    width:6rem;
+}
+
+.bcb{
+    margin: right;
+    float: right;
+    height: 60px;
+    width: 4rem;
+    color:white;
+    background-color: red;
+    padding: 5px;
+}
+.content{ 
+    color: white;
+    text-align: center;
+    padding: 10rem;
+    font-size: larger;
+                   
+}
+.ee{
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.input input {
+    width: 35rem;
+    height: 4.2rem;
+    margin-left: 20rem;
+}
+
+
+.ozioma1{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.ozioma2{
+    color: aliceblue;
+    width: -4px;
+    height:-5;
+}
+.ony1{
+    background-color: black;
+    
+}
+.ony2{
+    color: aliceblue;
+    text-align: right;
+    font-size: large;
+    padding-right: 10rem;
+    font-size: larger;
+    margin-top: 15px;
+}
+.onyeme{
+background-color: black;
+}
+.onyeme1{
+    color: aliceblue;
+    padding: 100px;
+}
+.ss1{
+    text-align:right;
+    color: aliceblue;
+    background-color: black; 
+    padding-right: 155px;
+    font-size: larger;
+    float: center;
+    position: middle;
+
+    
+}
+.img{
+    display: flex;
+    justify-content: right;
+    width: 100vh;
+    height: 25rem;
+}
+.ff{
+    text-align: center;
+}
+.ff{
+    color: aliceblue;
+    background-color: black;
+    padding: 10px;
+}
+.form{
+    width: 10px;
+    height: 20px;
+}
